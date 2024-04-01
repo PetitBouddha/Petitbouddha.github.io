@@ -40,7 +40,6 @@
     margin-left: 15vw;
     font-weight: 100;
     padding: 2vh;
-    border: 1px solid #222;
 }
 
 .discoverbutton{
@@ -81,7 +80,6 @@
 .menu ul li a {
     text-decoration: none;
     font-size: large;
-    border: 1px solid #ccc;
     color: #000000;
 }
 
@@ -94,6 +92,18 @@
     margin-top: 2vh;
     font-family: 'Roboto', sans-serif;
     font-size: 3em;
+}
+
+.images{
+    width: 70vw;
+    margin-top: 10vh;
+    display: flex;
+    margin-left: 10vw;
+}
+
+.imgs{
+    justify-content: center;
+    margin-left: 2vw;
 }
 
 @media screen and (min-width:768px) and (max-width:1164px) {

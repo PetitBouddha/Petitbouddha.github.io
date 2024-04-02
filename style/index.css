@@ -124,7 +124,7 @@
 
 .pic{
     width: 50vw;
-    height: 70vh;
+    height: 50vh;
 }
 
 .text{
@@ -174,7 +174,6 @@
 
     .menu{
         margin-left: auto;
-        border: 1px solid #333;
         width:  50%;
     }
 
@@ -333,8 +332,8 @@
     }
 
     .pic img{
-        width: 95vw;
-        height: 50vh;
+        width: 85vw;
+        height: 45vh;
     }
 
     .part3{

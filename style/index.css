@@ -94,6 +94,12 @@
     font-size: 3em;
 }
 
+.descript{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
 .images{
     width: 70vw;
     margin-top: 10vh;
@@ -108,7 +114,7 @@
 
 .part3{
     display: flex;
-    margin-top: 5vh;
+    margin-top: 10vh;
 }
 
 .pic{
@@ -125,6 +131,22 @@
     padding: 5vw;
 }
 
+.texte{
+    text-align: justify;
+    line-height: 1.5em;
+    margin-top: 3vh;
+    margin-left: 5vw;
+}
+
+.icon{
+    width: auto;
+    height: auto;
+    border: 1px solid black;
+}
+
+.block{
+    display: flex;
+}
 
 @media screen and (min-width:768px) and (max-width:1164px) {
    

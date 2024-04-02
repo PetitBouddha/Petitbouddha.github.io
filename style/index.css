@@ -101,6 +101,7 @@
 }
 
 .imgs{
+    width: 40%;
     justify-content: center;
     margin-left: 10vw;
 }

@@ -134,6 +134,19 @@
     padding: 5vw;
 }
 
+.text button{
+    width: 15vw;
+    height: 7vh;
+    font-size: 1.5em;
+    margin-top: 5vh;
+    opacity: 0px;
+    background: #274C5B;
+    color: aliceblue;
+    border-radius: 15px 15px;
+}
+
+
+
 .texte{
     text-align: justify;
     line-height: 1.5em;

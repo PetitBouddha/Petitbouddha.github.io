@@ -184,7 +184,7 @@
     width: 60vw;
     height: fit-content;
     text-align: center;
-    margin-left: 25vw;
+    margin-left: 20vw;
     margin-top: 5vh;
     border: 1px solid black;
 }
@@ -399,4 +399,6 @@
         font-size: 1em;
         width: fit-content;
     }
+
+    
 }
